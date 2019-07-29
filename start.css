@@ -4,16 +4,18 @@ body{
 /*background-repeat: no-repeat;*/
 background-color: green;}
 .out{
+	border: 2px solid blue;
 	background-color: black;
 	
-	padding-top: 293px;
-	padding-bottom: 293px;
+	padding-top: 20%;
+	padding-bottom: 20%;
 }
 .out2{
+	border: 2px solid blue;
 background-color: green;
 	
-	padding-top: 293px;
-	padding-bottom: 293px;
+	padding-top: 20%;
+	padding-bottom: 20%;
 
 }
 p
@@ -32,8 +34,8 @@ font-family: 'Lacquer', sans-serif;
 }
 .btn-sm{
 	color:black;
-	margin-left: 50px;
-	margin-right:  50px;
+	margin-left: 35%;
+	margin-right:  35%;
 }
 .inner{
 		
