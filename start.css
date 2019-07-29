@@ -1,0 +1,41 @@
+body{
+/*background-image: url(sis.jpg) ;*/
+/*background-size: cover;*/
+/*background-repeat: no-repeat;*/
+background-color: black;}
+.out{
+	background-color: black;
+	
+	padding-top: 293px;
+	padding-bottom: 293px;
+}
+.out2{
+background-color: green;
+	
+	padding-top: 293px;
+	padding-bottom: 293px;
+
+}
+p
+{
+color: green;
+}
+.col{
+   
+   	/*border: 2px solid blue;	*/
+	
+}
+h1{
+	
+	font-size: 250%;
+font-family: 'Lacquer', sans-serif;
+}
+.btn-sm{
+	color:black;
+	margin-left: 50px;
+	margin-right:  50px;
+}
+.inner{
+		
+}
+
