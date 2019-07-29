@@ -4,14 +4,14 @@ body{
 /*background-repeat: no-repeat;*/
 background-color: green;}
 .out{
-	border: 2px solid blue;
+/*	border: 2px solid blue;*/
 	background-color: black;
 	
 	padding-top: 20%;
 	padding-bottom: 20%;
 }
 .out2{
-	border: 2px solid blue;
+	/*border: 2px solid blue;*/
 background-color: green;
 	
 	padding-top: 20%;
