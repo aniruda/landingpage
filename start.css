@@ -5,15 +5,15 @@ body{
 background-color: green;}
 .out{
 /*	border: 2px solid blue;*/
-	background-color: black;
-	
+	/*background-color: black;*/
+	 background-color: rgb(20, 227, 134);
 	padding-top: 20%;
 	padding-bottom: 20%;
 }
 .out2{
 	/*border: 2px solid blue;*/
-background-color: green;
-	
+/*background-color: green;*/
+	  background-color: rgb(255, 255, 255);
 	padding-top: 20%;
 	padding-bottom: 20%;
 
